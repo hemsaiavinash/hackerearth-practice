@@ -1,3 +1,5 @@
+**_I Have decided to make this repository so that I can store my code even though I erase my hard-drive._**
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hemsaiavinash/hackerearth-practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
